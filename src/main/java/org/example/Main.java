@@ -10,9 +10,8 @@ public class Main {
         System.out.println("Umut");
         System.out.println("Umut");
         System.out.println("Furkan");
-
-
-
+        
+        System.out.println("Hello from Ali !");
 
     }
 }
